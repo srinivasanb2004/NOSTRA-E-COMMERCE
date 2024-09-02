@@ -11,11 +11,7 @@ document.getElementById("side-navbar-close").addEventListener("click",()=>{
 })
 
 
-var btn =document.getElementById("btn")
 
-btn.addEventListener("click",function(){
-    alert("Thank You For Visiting Our Page")
-})
 
 
 
